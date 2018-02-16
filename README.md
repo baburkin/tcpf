@@ -12,5 +12,3 @@ The tool prints the output to `stdout`.
 
 The utility shows how the syntax of Go channels and goroutines helps
 handle such tasks in a natural and elegant way.
-
-    tcpf
